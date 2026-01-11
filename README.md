@@ -1,5 +1,1 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=40&pause=1000&color=B1072A&center=true&width=435&lines=Jasper%2C+voc%C3%AA+nos+ultimos+segundos+de+vida;perdeu+completamente+o+controle+do+seu+corpo;Voc%C3%AA+tenta+tirar+a+m%C3%A1scara%2C+a+m%C3%A1scara+n%C3%A3o+obedece;Nesse+momento%2C+voc%C3%AA+%C3%A9+verdadeiramente+o+Mutilador+Noturno;E+voc%C3%AA+vai+morrer+preso+dentro+da+carne+do+Aguiar.)](https://git.io/typing-svg)
